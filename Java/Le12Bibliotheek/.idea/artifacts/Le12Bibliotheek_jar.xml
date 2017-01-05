@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Le12Bibliotheek:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Le12Bibliotheek_jar</output-path>
+    <root id="archive" name="Le12Bibliotheek.jar">
+      <element id="module-output" name="Le12Bibliotheek" />
+      <element id="dir-copy" path="$PROJECT_DIR$/bibliotheken" />
+    </root>
+  </artifact>
+</component>
