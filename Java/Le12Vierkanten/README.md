@@ -1,4 +1,4 @@
-# OpenUniversiteti_Le12Vierkanten
+# OpenUniversiteit_Le12Vierkanten
 Toont een aantal vierkanten met afbeeldingen, deze zijn verplaastbaar via de muis of pijltjes.
 
 Jar file is available at [Le12Vierkanten.jar] (https://github.com/simonbosman/OpenUniversiteit/tree/master/Java/Le12Vierkanten/out/artifacts/Le12Vierkanten_jar)
