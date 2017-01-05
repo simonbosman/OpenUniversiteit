@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Le12Studiecentra:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Le12Studiecentra_jar</output-path>
+    <root id="archive" name="Le12Studiecentra.jar">
+      <element id="module-output" name="Le12Studiecentra" />
+      <element id="directory" name="images">
+        <element id="file-copy" path="$PROJECT_DIR$/images/amsterdam.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/images/amsterdam_klein.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/images/eindhoven.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/images/eindhoven_klein.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/images/heerlen.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/images/heerlen_klein.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/images/rotterdam.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/images/rotterdam_klein.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/images/utrecht.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/images/utrecht_klein.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/images/zwolle.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/images/zwolle_klein.jpg" />
+      </element>
+    </root>
+  </artifact>
+</component>
