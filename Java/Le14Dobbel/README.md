@@ -1,7 +1,7 @@
 # OpenUniversiteit_Le14Dobbel
 Observerpattern, no association from view to model.
 
-Jar file at [Le14Dobbel.jar](https://github.com/simonbosman/OpenUniversiteit_Le14Dobbel/tree/master/out/artifacts/Le14Dobbel_jar)
+Jar file at [Le14Dobbel.jar](https://github.com/simonbosman/OpenUniversiteit/tree/master/Java/Le14Dobbel/out/artifacts/Le14Dobbel_ja://github.com/simonbosman/OpenUniversiteit/tree/master/Java/Le14Dobbel/out/artifacts/Le14Dobbel_jar)
 
 Run as:
 ```
