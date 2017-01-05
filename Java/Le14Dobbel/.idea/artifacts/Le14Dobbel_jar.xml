@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Le14Dobbel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Le14Dobbel_jar</output-path>
+    <root id="archive" name="Le14Dobbel.jar">
+      <element id="module-output" name="Le14Dobbel" />
+    </root>
+  </artifact>
+</component>
