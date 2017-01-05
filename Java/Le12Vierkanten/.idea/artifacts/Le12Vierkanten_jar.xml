@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Le12Vierkanten:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Le12Vierkanten_jar</output-path>
+    <root id="archive" name="Le12Vierkanten.jar">
+      <element id="module-output" name="Le12Vierkanten" />
+    </root>
+  </artifact>
+</component>
