@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Le03Verzameling:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Le03Verzameling_jar</output-path>
+    <root id="archive" name="Le03Verzameling.jar">
+      <element id="module-output" name="Le03Verzameling" />
+    </root>
+  </artifact>
+</component>
