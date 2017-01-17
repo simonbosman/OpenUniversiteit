@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Le04Vormen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Le04Vormen_jar</output-path>
+    <root id="archive" name="Le04Vormen.jar">
+      <element id="module-output" name="Le04Vormen" />
+    </root>
+  </artifact>
+</component>
