@@ -1,4 +1,4 @@
-# OpenUniversiteit Le05Paar
+# OpenUniversiteit_Le05Paar
 
 Een eenvoudige generieke klasse.
 
