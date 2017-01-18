@@ -5,9 +5,11 @@ Volgende methodes worden getest op zoeksnelheid:<br>
 - Collections.binarySearch
 - Stream
 - ParallelStream
+
 ***
 Jar file is available at [Le04Lijst] 
-(https://github.com/simonbosman/OpenUniversiteit/tree/master/Java/Le04Lijst/out/artifacts/Le04Lijst_jar) 
+(https://github.com/simonbosman/OpenUniversiteit/tree/master/Java/Le04Lijst/out/artifacts/Le04Lijst_jar)<br>
+How to run:
 ```java
-How to run: java -jar Le04Lijst.jar
+java -jar Le04Lijst.jar
 ```
