@@ -1,7 +1,7 @@
 package paren;
 
 /**
- * Generic klasse met twee type parameters.
+ * Generieke klasse met twee type parameters.
  * @param <T>
  * @param <E>
  */
@@ -12,7 +12,7 @@ public class Paar<T, E> {
 
     /**
      * Default constructor verantwoordelijk voor definieren
-     * de twee verschillende elementen.
+     * van de twee verschillende elementen.
      * @param firsElement
      * @param secondElement
      */
@@ -38,7 +38,7 @@ public class Paar<T, E> {
     }
 
     /**
-     * Geert een string representatie van de elementen terug.
+     * Geeft een string representatie van de elementen terug.
      * @return
      */
     public String toString() {
@@ -46,7 +46,7 @@ public class Paar<T, E> {
     }
 
     /**
-     * Simple test
+     * Eenvoudige test.
      * @param args
      */
     public static void main(String[] args) {

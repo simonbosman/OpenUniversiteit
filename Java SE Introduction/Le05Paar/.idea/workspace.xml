@@ -19,16 +19,16 @@
       <file leaf-file-name="Paar.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/paren/Paar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1056">
-              <caret line="48" column="18" lean-forward="false" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+            <state relative-caret-position="198">
+              <caret line="48" column="23" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
               <folding>
-                <element signature="e#590#591#0" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
-                <element signature="e#726#727#0" expanded="true" />
-                <element signature="e#762#763#0" expanded="true" />
-                <element signature="e#887#888#0" expanded="true" />
-                <element signature="e#945#946#0" expanded="true" />
-                <element signature="e#1092#1109#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#768#769#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+                <element signature="e#951#952#0" expanded="true" />
+                <element signature="e#1103#1120#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -594,12 +594,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484772363101</updated>
-      <workItem from="1484772367352" duration="908000" />
+      <workItem from="1484772367352" duration="1237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="908000" />
+    <option name="totallyTimeSpent" value="1237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -653,16 +653,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/paren/Paar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="48" column="18" lean-forward="false" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        <state relative-caret-position="198">
+          <caret line="48" column="23" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
           <folding>
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#887#888#0" expanded="true" />
-            <element signature="e#945#946#0" expanded="true" />
-            <element signature="e#1092#1109#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#1103#1120#0" expanded="true" />
           </folding>
         </state>
       </provider>
