@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Le04Lijst:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Le04Lijst_jar</output-path>
+    <root id="archive" name="Le04Lijst.jar">
+      <element id="module-output" name="Le04Lijst" />
+    </root>
+  </artifact>
+</component>
