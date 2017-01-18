@@ -1,7 +1,7 @@
 # OpenUniversiteit_Le03Verzameling
 Overerving en delegatie
 
-Jar file is available at [Le03Verzameling.jar](https://github.com/simonbosman/OpenUniversiteit/tree/master/Java/Le03Verzameling/classes/artifacts/Le03Verzameling_jar)
+Jar file is available at [Le03Verzameling.jar](https://github.com/simonbosman/OpenUniversiteit/tree/master/Java%20SE%20Introduction/Le03Verzameling/classes/artifacts/Le03Verzameling_jar)
 
 How to run:
 ```java
