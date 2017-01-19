@@ -4,16 +4,10 @@ import vormen.Bol;
 import vormen.Cilinder;
 import vormen.Vorm;
 
-import java.lang.reflect.ParameterizedType;
-import java.lang.reflect.Type;
-import java.lang.reflect.TypeVariable;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
- * Klasse voor het testen van de klasse Doos.
- *
- * @author Open Universiteit Nederland
+ * Klasse voor het testen van verschillende generieke concepten.
  */
 public class DoosDemo {
 
@@ -23,8 +17,8 @@ public class DoosDemo {
     public static void main(String[] args) {
 
         //Maak een doos met als actuele type parameter Integer.
-        //Voor doos is geen upperbound gedefineerd, dus geldt
-        //automatisch Ojbect als upperbound.
+        //Voor doos is geen upperbound gedefinieerd, dus geldt
+        //automatisch Object als upperbound.
         Doos<Integer> integerDoos = new Doos<Integer>();
         integerDoos.bewaar(10);
         Integer i = integerDoos.getObject();
