@@ -1,0 +1,2 @@
+#OpenUniversiteit_Le05VormenDoos
+Verschillende concepten van generieke klassen.
