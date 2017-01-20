@@ -25,7 +25,7 @@ public class Stack<E> {
      * Haalt een element van de top van de stack.
      *
      * @return Het element bovenop de stack of
-     * null i.g.v. een lage stack.
+     * null i.g.v. een lege stack.
      */
     public E pop() {
         if (!isEmpty()) {
