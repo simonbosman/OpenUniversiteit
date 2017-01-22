@@ -1,3 +1,3 @@
 # OpenUniversiteit_Le07KloonDeep
 
-Voorbeeld van een deep clone en haar gevolgen.
+Voorbeeld van een deep copy en haar gevolgen.
