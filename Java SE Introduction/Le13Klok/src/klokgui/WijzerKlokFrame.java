@@ -123,7 +123,7 @@ public class WijzerKlokFrame extends JFrame {
         }
         return stadKeuze;
     }
-]
+
     public static void main(String[] args) {
         WijzerKlokFrame klokFrame = new WijzerKlokFrame();
         klokFrame.setVisible(true);

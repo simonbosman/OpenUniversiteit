@@ -20,7 +20,7 @@ class Vierkant extends JPanel {
         setSize(AFMETING + 200, AFMETING);
         setBackground(kleur);
         setFocusable(true);
-        ImageIcon icon = new ImageIcon("images\\hondjes.jpg");
+        ImageIcon icon = new ImageIcon("images//hondjes.jpg");
         add(new JLabel(icon));
         setOpaque(false);
         addKeyListener(new PijlLuisteraar());
