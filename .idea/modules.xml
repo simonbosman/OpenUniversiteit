@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le03Verzameling/Le03Verzameling.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le03Verzameling/Le03Verzameling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le03Vormen/Le03Vormen.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le03Vormen/Le03Vormen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le04Lijst/Le04Lijst.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le04Lijst/Le04Lijst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le04Vormen/Le04Vormen.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le04Vormen/Le04Vormen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le05Box/Le05Box.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le05Box/Le05Box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le05Paar/Le05Paar.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le05Paar/Le05Paar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le05Stack/Le05Stack.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le05Stack/Le05Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le05VormenDoos/Le05VormenDoos.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le05VormenDoos/Le05VormenDoos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le06Verzameling/Le06Verzameling.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le06Verzameling/Le06Verzameling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le07Kloon/Le07Kloon.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le07Kloon/Le07Kloon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le07KloonDeep/Le07KloonDeep.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le07KloonDeep/Le07KloonDeep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le07Vormen/Le07Vormen.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le07Vormen/Le07Vormen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le08Berekeningen/Le08Berekeningen.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le08Berekeningen/Le08Berekeningen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le08Demos/Le08Demos.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le08Demos/Le08Demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le08Reservering/Le08Reservering.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le08Reservering/Le08Reservering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le12Bibliotheek/Le12Bibliotheek.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le12Bibliotheek/Le12Bibliotheek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le12Studiecentra/Le12Studiecentra.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le12Studiecentra/Le12Studiecentra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le12Vierkanten/Le12Vierkanten.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le12Vierkanten/Le12Vierkanten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le13Klok/Le13Klok.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le13Klok/Le13Klok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java SE Introduction/Le14Dobbel/Le14Dobbel.iml" filepath="$PROJECT_DIR$/Java SE Introduction/Le14Dobbel/Le14Dobbel.iml" />
+    </modules>
+  </component>
+</project>
